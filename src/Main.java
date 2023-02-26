@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        System.out.println("Hello i'm new Calculator!");
+
         Reader read = new Reader();
         Calcalator calc = new Calcalator();
 
